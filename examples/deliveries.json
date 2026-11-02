@@ -1,0 +1,22 @@
+[
+  {"id": "BF-HR-01", "market": "HR", "subject": "Black Friday: do 40% popusta",
+   "html": "<p>Cijena 1.299,00 €</p><a href=\"https://example.com/unsubscribe?u=1\">Odjava</a><div id=\"legal-footer\">…</div>",
+   "audience_filters": ["marketing_optin"], "proof_approved_by": "hr.marketing", "send_local_time": "09:00",
+   "typology": "marketing", "seed_list": ["seed-hr@example.com"]},
+  {"id": "BF-SI-01", "market": "SI", "subject": "Black Friday: do 40% popusta",
+   "html": "<p>Cena 1.299,00 €</p><a href=\"https://example.com/preferences\">Nastavitve</a><div id=\"legal-footer\">…</div>",
+   "audience_filters": ["marketing_optin"], "proof_approved_by": "si.marketing", "send_local_time": "09:00",
+   "typology": "marketing", "seed_list": ["seed-si@example.com"]},
+  {"id": "BF-AT-01", "market": "AT", "subject": "Black Friday: bis zu 40 % Rabatt",
+   "html": "<p>Preis 1.299,00 €</p><a href=\"https://example.com/unsubscribe?u=2\">Abmelden</a><div id=\"legal-footer\">…</div>",
+   "audience_filters": ["marketing_optin"], "proof_approved_by": "", "send_local_time": "10:00",
+   "typology": "marketing", "seed_list": ["seed-at@example.com"]},
+  {"id": "BF-GR-01", "market": "GR", "subject": "Black Friday: έως 40% έκπτωση",
+   "html": "<p>Τιμή €1,299.00</p><a href=\"https://example.com/unsubscribe?u=3\">Διαγραφή</a><div id=\"legal-footer\">…</div>",
+   "audience_filters": ["marketing_optin"], "proof_approved_by": "gr.marketing", "send_local_time": "23:30",
+   "typology": "marketing", "seed_list": ["seed-gr@example.com"]},
+  {"id": "BF-HU-01", "market": "HU", "subject": "Black Friday: akár 40% kedvezmény minden kiválasztott termékre most",
+   "html": "<p>Ár 129.900,00 Ft</p><a href=\"https://example.com/unsubscribe?u=4\">Leiratkozás</a><div id=\"legal-footer\">…</div>",
+   "audience_filters": [], "proof_approved_by": "hu.marketing", "send_local_time": "09:30",
+   "typology": "marketing", "seed_list": ["seed-hu@example.com"]}
+]
